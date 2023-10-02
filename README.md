@@ -6,9 +6,9 @@
 ## 隊伍介紹
 由三位女生組成的全女子隊伍<br>
 組員分別為:
-- 黎芷柔
-- 陳伸蓉
-- 賀謹彤
+- 黎芷柔 (40%)
+- 陳伸蓉 (40%)
+- 賀謹彤 (20%)
 
 ## 得獎經歷
 - 2022.10：2022 ICPC Asia Taiwan Online Programming Contest (TOPC) － Honorable Mention (34名)
